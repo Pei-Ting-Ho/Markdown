@@ -2,7 +2,7 @@
 1. This is normal text || **This text is bold**
 
 2. This is normal text || *This text is italicized*
-
+3
 3. This is normal text || **This is _nest italicized_ bold text**
 
 4. This is normal text || ***This text is bold and italicized***
