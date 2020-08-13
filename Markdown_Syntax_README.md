@@ -48,4 +48,6 @@ code3
 
 12. Create a new paragraph by leaving a blank line between lines of text
 
-13. Add image: ![R Tidyverse](Tidyverse.png)
+13. Add image: 
+
+![R Tidyverse](Tidyverse.png)
