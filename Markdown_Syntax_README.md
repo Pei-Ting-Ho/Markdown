@@ -47,3 +47,5 @@ code3
 11. Escape Markdown formatting by using \ before the Markdown character: Let's start the data science \*project\*
 
 12. Create a new paragraph by leaving a blank line between lines of text
+
+13. Add image: ![R Tidyverse](Tidyverse.png)
